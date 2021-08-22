@@ -41,3 +41,8 @@ Numbering sequence followed for image files
 * 800 - Battery Indicator
 * 900 - Toggles like Alarm, Bluetooth, DND, AM, PM
 * 950 - Steps Progress bar
+
+---
+### BUG FIX
+1. Ones in Second not updating :  
+Adding analogue component of Second to the code fixed the problem.
