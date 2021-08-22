@@ -12,13 +12,13 @@
                 "ImageIndex": 101,
                 "ImagesCount": 10,
                 "X": 50,
-                "Y": 16
+                "Y": 18
             },
             "Tens": {
                 "ImageIndex": 101,
                 "ImagesCount": 10,
                 "X": 15,
-                "Y": 16
+                "Y": 18
             }
         },
         "Minutes": {
@@ -26,13 +26,13 @@
                 "ImageIndex": 101,
                 "ImagesCount": 10,
                 "X": 135,
-                "Y": 16
+                "Y": 18
             },
             "Tens": {
                 "ImageIndex": 101,
                 "ImagesCount": 10,
                 "X": 100,
-                "Y": 16
+                "Y": 18
             }
         },
         "Seconds": {
@@ -53,7 +53,7 @@
     "Date": {
         "WeekDay": {
             "X": 52,
-            "Y": 96,
+            "Y": 97,
             "ImageIndex": 601,
             "ImagesCount": 7
         },
@@ -63,7 +63,7 @@
             "Separate": {
                 "Day": {
                     "TopLeftX": 15,
-                    "TopLeftY": 96,
+                    "TopLeftY": 97,
                     "BottomRightX": 43,
                     "BottomRightY": 136,
                     "Alignment": "TopRight",
@@ -73,7 +73,7 @@
                 },
                 "Month": {
                     "TopLeftX": -124,
-                    "TopLeftY": 116,
+                    "TopLeftY": 117,
                     "BottomRightX": 410,
                     "BottomRightY": 140,
                     "Alignment": "TopLeft",
@@ -88,14 +88,14 @@
         "Alarm": {
             "Coordinates": {
                 "X": 148,
-                "Y": 0
+                "Y": 4
             },
             "ImageIndexOn": 905
         },
         "Bluetooth": {
             "Coordinates": {
                 "X": 163,
-                "Y": 0
+                "Y": 4
             },
             "ImageIndexOn": 901,
             "ImageIndexOff": 902
@@ -103,15 +103,15 @@
         "DoNotDisturb": {
             "Coordinates": {
                 "X": 134,
-                "Y": 0
+                "Y": 4
             },
             "ImageIndexOn": 903
         }
     },
     "Battery": {
         "Icon": {
-            "X": 0,
-            "Y": 0,
+            "X": 4,
+            "Y": 4,
             "ImageIndex": 801,
             "ImagesCount": 6
         }

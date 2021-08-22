@@ -44,5 +44,8 @@ Numbering sequence followed for image files
 
 ---
 ### BUG FIX
-1. Ones in Second not updating :  
-Adding analogue component of Second to the code fixed the problem.
+1. **Ones in Second not updating**  
+Adding analogue component of Second to the code fixed the problem.  
+  
+2. **Battery, Bluetooth and Other Symbols on the top gets cropped**  
+Added a buffer of 4 Pixels to make them appear without crop
