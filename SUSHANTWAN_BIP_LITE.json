@@ -124,7 +124,7 @@
             "BottomRightY": 152,
             "Alignment": "TopRight",
             "Spacing": 2,
-            "ImageIndex": 200,
+            "ImageIndex": 281,
             "ImagesCount": 10
         },
         "Steps": {
@@ -144,7 +144,7 @@
             "BottomRightY": 169,
             "Alignment": "TopRight",
             "Spacing": 2,
-            "ImageIndex": 200,
+            "ImageIndex": 281,
             "ImagesCount": 10
         },
         "Pulse": {
@@ -154,7 +154,7 @@
             "BottomRightY": 168,
             "Alignment": "TopLeft",
             "Spacing": 2,
-            "ImageIndex": 200,
+            "ImageIndex": 281,
             "ImagesCount": 10
         },
         "Distance": {
@@ -165,7 +165,7 @@
                 "BottomRightY": 148,
                 "Alignment": "TopLeft",
                 "Spacing": 2,
-                "ImageIndex": 200,
+                "ImageIndex": 281,
                 "ImagesCount": 10
             },
             "SuffixImageIndex": 906,
