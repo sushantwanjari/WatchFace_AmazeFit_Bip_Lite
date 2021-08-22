@@ -223,5 +223,33 @@
             "Y": 155,
             "ImageIndex": 908
         }
+    },
+    "AnalogDialFace": {
+      "Seconds": {
+        "OnlyBorder": false,
+        "Color": "0xFF0000",
+        "Center": {
+          "X": 126,
+          "Y": 35
+        },
+        "Shape": [
+          {
+            "X": 1,
+            "Y": 1
+          },
+          {
+            "X": 1,
+            "Y": 1
+          },
+          {
+            "X": 1,
+            "Y": 1
+          },
+          {
+            "X": 1,
+            "Y": 1
+          }
+        ]
+      }
     }
 }
