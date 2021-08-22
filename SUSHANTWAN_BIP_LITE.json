@@ -1,0 +1,227 @@
+{
+    "Background": {
+        "Image": {
+            "ImageIndex": 0,
+            "X": 0,
+            "Y": 0
+        }
+    },
+    "Time": {
+        "Hours": {
+            "Ones": {
+                "ImageIndex": 101,
+                "ImagesCount": 10,
+                "X": 50,
+                "Y": 16
+            },
+            "Tens": {
+                "ImageIndex": 101,
+                "ImagesCount": 10,
+                "X": 15,
+                "Y": 16
+            }
+        },
+        "Minutes": {
+            "Ones": {
+                "ImageIndex": 101,
+                "ImagesCount": 10,
+                "X": 135,
+                "Y": 16
+            },
+            "Tens": {
+                "ImageIndex": 101,
+                "ImagesCount": 10,
+                "X": 100,
+                "Y": 16
+            }
+        },
+        "Seconds": {
+            "Tens": {
+                "X": 84,
+                "Y": 37,
+                "ImageIndex": 251,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "X": 84,
+                "Y": 57,
+                "ImageIndex": 251,
+                "ImagesCount": 10
+            }
+        }
+    },
+    "Date": {
+        "WeekDay": {
+            "X": 52,
+            "Y": 96,
+            "ImageIndex": 601,
+            "ImagesCount": 7
+        },
+        "MonthAndDay": {
+            "TwoDigitsMonth": false,
+            "TwoDigitsDay": true,
+            "Separate": {
+                "Day": {
+                    "TopLeftX": 15,
+                    "TopLeftY": 96,
+                    "BottomRightX": 43,
+                    "BottomRightY": 136,
+                    "Alignment": "TopRight",
+                    "Spacing": 5,
+                    "ImageIndex": 151,
+                    "ImagesCount": 10
+                },
+                "Month": {
+                    "TopLeftX": -124,
+                    "TopLeftY": 116,
+                    "BottomRightX": 410,
+                    "BottomRightY": 140,
+                    "Alignment": "TopLeft",
+                    "Spacing": -104,
+                    "ImageIndex": 401,
+                    "ImagesCount": 10
+                }
+            }
+        }
+    },
+    "Status": {
+        "Alarm": {
+            "Coordinates": {
+                "X": 148,
+                "Y": 0
+            },
+            "ImageIndexOn": 905
+        },
+        "Bluetooth": {
+            "Coordinates": {
+                "X": 163,
+                "Y": 0
+            },
+            "ImageIndexOn": 901,
+            "ImageIndexOff": 902
+        },
+        "DoNotDisturb": {
+            "Coordinates": {
+                "X": 134,
+                "Y": 0
+            },
+            "ImageIndexOn": 903
+        }
+    },
+    "Battery": {
+        "Icon": {
+            "X": 0,
+            "Y": 0,
+            "ImageIndex": 801,
+            "ImagesCount": 6
+        }
+    },
+    "Activity": {
+        "Calories": {
+            "TopLeftX": 141,
+            "TopLeftY": 141,
+            "BottomRightX": 169,
+            "BottomRightY": 152,
+            "Alignment": "TopRight",
+            "Spacing": 2,
+            "ImageIndex": 200,
+            "ImagesCount": 10
+        },
+        "Steps": {
+            "TopLeftX": 16,
+            "TopLeftY": 157,
+            "BottomRightX": 58,
+            "BottomRightY": 169,
+            "Alignment": "TopLeft",
+            "Spacing": 2,
+            "ImageIndex": 281,
+            "ImagesCount": 10
+        },
+        "StepsGoal": {
+            "TopLeftX": 139,
+            "TopLeftY": 157,
+            "BottomRightX": 169,
+            "BottomRightY": 169,
+            "Alignment": "TopRight",
+            "Spacing": 2,
+            "ImageIndex": 200,
+            "ImagesCount": 10
+        },
+        "Pulse": {
+            "TopLeftX": 85,
+            "TopLeftY": 157,
+            "BottomRightX": 110,
+            "BottomRightY": 168,
+            "Alignment": "TopLeft",
+            "Spacing": 2,
+            "ImageIndex": 200,
+            "ImagesCount": 10
+        },
+        "Distance": {
+            "Number": {
+                "TopLeftX": 16,
+                "TopLeftY": 141,
+                "BottomRightX": 73,
+                "BottomRightY": 148,
+                "Alignment": "TopLeft",
+                "Spacing": 2,
+                "ImageIndex": 200,
+                "ImagesCount": 10
+            },
+            "SuffixImageIndex": 906,
+            "DecimalPointImageIndex": 907
+        }
+    },
+    "StepsProgress": {
+        "Linear": {
+            "StartImageIndex": 951,
+            "Segments": [
+                {
+                    "X": 2,
+                    "Y": 172
+                },
+                {
+                    "X": 2,
+                    "Y": 172
+                },
+                {
+                    "X": 2,
+                    "Y": 172
+                },
+                {
+                    "X": 2,
+                    "Y": 172
+                },
+                {
+                    "X": 2,
+                    "Y": 172
+                },
+                {
+                    "X": 2,
+                    "Y": 172
+                },
+                {
+                    "X": 2,
+                    "Y": 172
+                },
+                {
+                    "X": 2,
+                    "Y": 172
+                },
+                {
+                    "X": 2,
+                    "Y": 172
+                },
+                {
+                    "X": 2,
+                    "Y": 172
+                }
+            ]
+        },
+        "GoalImage": {
+            "X": 114,
+            "Y": 155,
+            "ImageIndex": 908
+        }
+    }
+}
